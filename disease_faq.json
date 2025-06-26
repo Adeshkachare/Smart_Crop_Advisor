@@ -1,0 +1,306 @@
+{
+  "Apple___Apple_scab": {
+    "cure": "Apply fungicides containing captan, mancozeb, or myclobutanil. Remove infected leaves and prune trees for better air circulation.",
+    "farming_tip": "Plant resistant varieties, ensure proper spacing, and use drip irrigation to minimize leaf wetness.",
+    "impact": "Causes dark, velvety spots on leaves, fruits, and twigs, leading to defoliation, stunted fruit growth, and reduced marketability.",
+    "best_season": "Most prevalent in cool, wet spring weather, especially during bud break and leaf expansion.",
+    "profitability": "Can significantly reduce marketable fruit yield and quality if not managed, impacting profitability.",
+    "farming_guide": "Farming guide for Apple   Apple scab goes here, including best seasons and profit tips."
+  },
+  "Apple___Black_rot": {
+    "cure": "Prune out diseased branches and cankers. Apply protective fungicides like captan or strobilurins. Remove mummified fruits.",
+    "farming_tip": "Sanitation is key. Disinfect pruning tools. Avoid wounding trees and manage insect pests that cause wounds.",
+    "impact": "Causes rot on fruit (black mummified fruit), cankers on branches, and frog-eye leaf spot. Leads to fruit loss and tree decline.",
+    "best_season": "Favored by warm, humid conditions, typically from late spring through summer.",
+    "profitability": "Directly impacts fruit quality and quantity, making affected harvests less profitable.",
+    "farming_guide": "Farming guide for Apple   Black rot goes here, including best seasons and profit tips."
+  },
+  "Apple___Cedar_apple_rust": {
+    "cure": "Apply fungicides containing myclobutanil or propiconazole. Remove cedar trees within a mile if possible (they are alternate hosts).",
+    "farming_tip": "Plant rust-resistant apple varieties. Prune out galls from nearby cedar trees during winter.",
+    "impact": "Causes bright orange-yellow spots on apple leaves, fruit, and sometimes twigs. Leads to defoliation and fruit deformities.",
+    "best_season": "Infections occur in spring when cedar galls release spores during wet weather.",
+    "profitability": "While rarely fatal, severe infections can reduce fruit quality and vigor, affecting profitability.",
+    "farming_guide": "Farming guide for Apple   Cedar apple rust goes here, including best seasons and profit tips."
+  },
+  "Apple___healthy": {
+    "cure": "Maintain good orchard hygiene, balanced nutrition, and appropriate watering.",
+    "farming_tip": "Regular scouting for pests and diseases, proper pruning, and annual soil testing are recommended.",
+    "impact": "Healthy trees yield optimal fruit quality and quantity, ensuring strong market value.",
+    "best_season": "Depends on apple variety, but generally grows well in temperate climates with distinct seasons.",
+    "profitability": "High profitability due to good yield and quality, minimal input costs for disease management.",
+    "farming_guide": "Farming guide for Apple   healthy goes here, including best seasons and profit tips."
+  },
+  "Blueberry___healthy": {
+    "cure": "Maintain optimal soil pH (4.5-5.5), ensure good drainage, and provide balanced fertilization.",
+    "farming_tip": "Prune annually to encourage new growth, use mulching to retain moisture and suppress weeds, and protect from birds.",
+    "impact": "Healthy bushes produce abundant, high-quality berries, maximizing yield and market value.",
+    "best_season": "Blueberries typically fruit in late spring to late summer, depending on the variety and climate.",
+    "profitability": "Highly profitable with good yields and strong market demand for fresh and processed berries.",
+    "farming_guide": "Farming guide for Blueberry   healthy goes here, including best seasons and profit tips."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "cure": "Apply fungicides like sulfur, potassium bicarbonate, or certain synthetics. Improve air circulation.",
+    "farming_tip": "Plant resistant varieties. Ensure good air circulation through proper spacing and pruning. Avoid excessive nitrogen fertilizer.",
+    "impact": "Causes white, powdery patches on leaves, shoots, and sometimes fruit. Can stunt growth and reduce fruit quality.",
+    "best_season": "Favored by warm, dry days and cool, humid nights, common in late spring and summer.",
+    "profitability": "Can reduce fruit marketability and tree vigor if severe, impacting overall profitability.",
+    "farming_guide": "Farming guide for Cherry (including sour)   Powdery mildew goes here, including best seasons and profit tips."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "cure": "Ensure proper site selection with good drainage, balanced nutrition, and regular monitoring for pests and diseases.",
+    "farming_tip": "Annual pruning, adequate watering, and protection from late frosts are important for healthy cherry trees.",
+    "impact": "Healthy trees produce high yields of quality cherries, ensuring good returns.",
+    "best_season": "Cherries generally thrive in climates with cold winters and temperate summers.",
+    "profitability": "Good profitability with consistent yields of premium fruit.",
+    "farming_guide": "Farming guide for Cherry (including sour)   healthy goes here, including best seasons and profit tips."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "cure": "Use resistant hybrids. Apply foliar fungicides (e.g., strobilurins or triazoles) at early disease onset.",
+    "farming_tip": "Rotate crops with non-host plants. Implement no-till or reduced tillage to reduce residue, which harbors the fungus.",
+    "impact": "Causes rectangular lesions on leaves, reducing photosynthetic area and leading to premature death of plant tissue, significantly impacting yield.",
+    "best_season": "Favored by warm temperatures (24-30\u00c2\u00b0C) and high humidity, typically in mid to late summer.",
+    "profitability": "Can cause significant yield losses (up to 50% or more in severe cases), severely affecting profitability.",
+    "farming_guide": "Farming guide for Corn (maize)   Cercospora leaf spot Gray leaf spot goes here, including best seasons and profit tips."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "cure": "Plant resistant hybrids. Fungicides (e.g., triazoles) can be effective if applied early in the disease cycle.",
+    "farming_tip": "Avoid planting susceptible varieties. Ensure good air circulation within the field.",
+    "impact": "Forms cinnamon-brown pustules on both leaf surfaces. Severe infections can reduce photosynthesis and grain fill, impacting yield.",
+    "best_season": "Develops best in cool (16-23\u00c2\u00b0C), moist conditions, often in early to mid-summer.",
+    "profitability": "While rarely devastating, severe outbreaks can cause yield reductions, affecting profitability.",
+    "farming_guide": "Farming guide for Corn (maize)   Common rust  goes here, including best seasons and profit tips."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "cure": "Plant resistant hybrids. Apply foliar fungicides (e.g., strobilurins) at recommended growth stages.",
+    "farming_tip": "Implement crop rotation. Manage crop residue through tillage if disease pressure is high, though no-till is generally preferred for soil health.",
+    "impact": "Causes long, elliptical, grayish-green to tan lesions on leaves, leading to extensive blighting and significant yield reduction.",
+    "best_season": "Favored by cool, moist weather (18-27\u00c2\u00b0C) and high humidity, typically late summer.",
+    "profitability": "Can cause substantial yield losses (up to 50%), directly impacting farmer income.",
+    "farming_guide": "Farming guide for Corn (maize)   Northern Leaf Blight goes here, including best seasons and profit tips."
+  },
+  "Corn_(maize)___healthy": {
+    "cure": "Ensure proper fertilization, adequate water supply, and timely pest management.",
+    "farming_tip": "Select high-quality, adapted hybrids. Implement crop rotation, and monitor for early signs of stress.",
+    "impact": "Healthy corn plants achieve full yield potential, providing maximum grain output.",
+    "best_season": "Corn is typically planted in spring and harvested in late summer to early fall.",
+    "profitability": "Optimal profitability with high yields and good grain quality.",
+    "farming_guide": "Farming guide for Corn (maize)   healthy goes here, including best seasons and profit tips."
+  },
+  "Grape___Black_rot": {
+    "cure": "Apply fungicides at specific growth stages (e.g., bud break, pre-bloom, post-bloom). Remove mummified berries and cankers.",
+    "farming_tip": "Ensure good air circulation through proper pruning and trellis management. Maintain good vineyard sanitation.",
+    "impact": "Causes lesions on leaves, shoots, and especially berries, turning them into shriveled 'mummies'. Can lead to complete crop loss.",
+    "best_season": "Most active during warm, wet periods from bloom to veraison (grape coloring).",
+    "profitability": "Highly destructive; can render entire harvests unusable, severely impacting profitability.",
+    "farming_guide": "Farming guide for Grape   Black rot goes here, including best seasons and profit tips."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "cure": "No direct cure for infected vines. Management involves pruning out diseased wood, trunk renewal, and maintaining vine vigor. Fungicides for prevention in young vines.",
+    "farming_tip": "Use healthy planting material. Prune in dry weather. Protect pruning wounds with sealants. Maintain balanced nutrition.",
+    "impact": "Causes chronic decline, leaf scorching, internal wood necrosis, and berry discoloration. Can lead to vine death.",
+    "best_season": "Symptoms become visible in warm summer months, especially after periods of stress.",
+    "profitability": "Gradual decline in yield and quality, eventually leading to unproductive vines and significant economic loss.",
+    "farming_guide": "Farming guide for Grape   Esca (Black Measles) goes here, including best seasons and profit tips."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "cure": "Apply fungicides containing copper or other recommended active ingredients. Improve air circulation.",
+    "farming_tip": "Good sanitation by removing fallen leaves. Ensure proper vine spacing and canopy management to reduce humidity.",
+    "impact": "Causes angular, dark brown spots on leaves, often with yellow halos, leading to premature defoliation and reduced fruit quality.",
+    "best_season": "Favored by warm and humid conditions, typically from mid-summer onwards.",
+    "profitability": "Reduces photosynthetic capacity and fruit quality, impacting marketable yield and profitability.",
+    "farming_guide": "Farming guide for Grape   Leaf blight (Isariopsis Leaf Spot) goes here, including best seasons and profit tips."
+  },
+  "Grape___healthy": {
+    "cure": "Maintain proper vineyard management practices including nutrition, irrigation, and pest monitoring.",
+    "farming_tip": "Regular pruning, trellis maintenance, and timely scouting for issues are crucial for healthy grapevines.",
+    "impact": "Healthy vines produce high-quality grapes, essential for wine production or fresh market sales.",
+    "best_season": "Grapes are typically grown in temperate regions with warm summers for ripening.",
+    "profitability": "High profitability for quality grapes, especially for wine production.",
+    "farming_guide": "Farming guide for Grape   healthy goes here, including best seasons and profit tips."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "cure": "No known cure. Management focuses on removing infected trees, controlling the Asian citrus psyllid (vector), and planting certified disease-free trees.",
+    "farming_tip": "Integrated Pest Management (IPM) for psyllid control. Use protective covers for young trees. Participate in eradication programs.",
+    "impact": "Causes yellow shoots, mottled leaves, stunted growth, lopsided and bitter fruit, and eventual tree decline and death. Highly destructive.",
+    "best_season": "Present year-round, but psyllid activity and disease spread are higher in warmer periods.",
+    "profitability": "Devastating; leads to unproductive trees, significant economic losses, and can collapse entire citrus industries.",
+    "farming_guide": "Farming guide for Orange   Haunglongbing (Citrus greening) goes here, including best seasons and profit tips."
+  },
+  "Peach___Bacterial_spot": {
+    "cure": "Apply copper-based sprays or oxytetracycline. Prune out heavily infected branches. Use resistant varieties.",
+    "farming_tip": "Avoid practices that wound trees. Plant in well-drained soil. Maintain tree vigor with balanced nutrition.",
+    "impact": "Causes dark, angular spots on leaves, lesions on twigs and branches, and cracked, sunken spots on fruit. Leads to defoliation and unmarketable fruit.",
+    "best_season": "Favored by warm, wet, and humid conditions, especially during spring and early summer.",
+    "profitability": "Can severely reduce fruit quality and quantity, making harvests less profitable.",
+    "farming_guide": "Farming guide for Peach   Bacterial spot goes here, including best seasons and profit tips."
+  },
+  "Peach___healthy": {
+    "cure": "Ensure adequate sunlight, well-drained soil, proper watering, and a balanced fertilization program.",
+    "farming_tip": "Regular pruning for good air circulation, thinning fruit for size and quality, and protecting from late spring frosts are vital.",
+    "impact": "Healthy peach trees yield large, juicy, and sweet fruits, ensuring maximum market value.",
+    "best_season": "Peaches thrive in regions with cold winters and warm to hot summers.",
+    "profitability": "High profitability with good management and quality fruit production.",
+    "farming_guide": "Farming guide for Peach   healthy goes here, including best seasons and profit tips."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "cure": "Use copper-based bactericides or streptomycin. Remove infected plant material. Plant resistant varieties.",
+    "farming_tip": "Avoid overhead irrigation to reduce leaf wetness. Rotate crops. Sanitize tools and greenhouses.",
+    "impact": "Causes small, water-soaked spots on leaves that turn brown, leading to defoliation. Also causes raised, scab-like lesions on fruit.",
+    "best_season": "Favored by warm (25-30\u00c2\u00b0C) and humid conditions, common in summer.",
+    "profitability": "Reduces fruit quality and quantity significantly, impacting marketability and profitability.",
+    "farming_guide": "Farming guide for Pepper, bell   Bacterial spot goes here, including best seasons and profit tips."
+  },
+  "Pepper,_bell___healthy": {
+    "cure": "Provide full sun, well-drained soil, consistent watering, and balanced nutrients.",
+    "farming_tip": "Use staking for support, mulch to retain moisture, and protect from extreme temperatures. Harvest regularly.",
+    "impact": "Healthy bell pepper plants produce abundant, high-quality fruits, ensuring strong market appeal.",
+    "best_season": "Bell peppers are warm-season crops, best grown in late spring through summer.",
+    "profitability": "Good profitability with consistent yields of high-quality peppers.",
+    "farming_guide": "Farming guide for Pepper, bell   healthy goes here, including best seasons and profit tips."
+  },
+  "Potato___Early_blight": {
+    "cure": "Apply fungicides like chlorothalonil, mancozeb, or strobilurins. Rotate crops.",
+    "farming_tip": "Plant resistant varieties. Ensure proper plant spacing. Maintain good soil fertility and avoid water stress.",
+    "impact": "Causes concentric ring spots on lower leaves, leading to premature defoliation and reduced tuber size and yield.",
+    "best_season": "Favored by warm, humid conditions, typically appearing after flowering in mid to late season.",
+    "profitability": "Can cause moderate to severe yield reductions if not controlled, impacting profitability.",
+    "farming_guide": "Farming guide for Potato   Early blight goes here, including best seasons and profit tips."
+  },
+  "Potato___Late_blight": {
+    "cure": "Aggressive fungicide applications (e.g., mandipropamid, fluazinam). Destroy infected plant debris. Use resistant varieties.",
+    "farming_tip": "Plant certified disease-free seed potatoes. Avoid overhead irrigation. Ensure good air circulation. Scout fields regularly.",
+    "impact": "Rapidly causes water-soaked lesions on leaves and stems that turn brown/black, leading to complete plant collapse and tuber rot. Highly destructive.",
+    "best_season": "Favored by cool (10-20\u00c2\u00b0C) and wet conditions, high humidity, can occur anytime if conditions are right.",
+    "profitability": "Extremely destructive; can wipe out entire crops rapidly, leading to major economic losses.",
+    "farming_guide": "Farming guide for Potato   Late blight goes here, including best seasons and profit tips."
+  },
+  "Potato___healthy": {
+    "cure": "Ensure well-drained soil, balanced fertilization, and consistent moisture.",
+    "farming_tip": "Plant certified seed, rotate crops, hill potatoes to protect tubers, and manage pests early.",
+    "impact": "Healthy potato plants produce high yields of marketable tubers.",
+    "best_season": "Potatoes are generally cool-season crops, planted in early spring and harvested in summer/fall.",
+    "profitability": "Profitable with good yield and quality, especially for popular varieties.",
+    "farming_guide": "Farming guide for Potato   healthy goes here, including best seasons and profit tips."
+  },
+  "Raspberry___healthy": {
+    "cure": "Provide well-drained soil, adequate sunlight, and consistent moisture.",
+    "farming_tip": "Prune out old canes annually, support canes with trellises, and mulch to control weeds and conserve moisture.",
+    "impact": "Healthy raspberry plants produce abundant, sweet berries, ensuring high market demand.",
+    "best_season": "Raspberries typically fruit in summer (for summer-bearing) or fall (for fall-bearing).",
+    "profitability": "Good profitability due to demand for fresh and processed berries.",
+    "farming_guide": "Farming guide for Raspberry   healthy goes here, including best seasons and profit tips."
+  },
+  "Soybean___healthy": {
+    "cure": "Maintain good soil health, proper planting depth, and timely weed/pest control.",
+    "farming_tip": "Rotate crops with non-legumes. Use appropriate seeding rates and ensure adequate phosphorus and potassium.",
+    "impact": "Healthy soybean plants achieve optimal pod and seed development, maximizing protein and oil yield.",
+    "best_season": "Soybeans are warm-season crops, typically planted in late spring after the last frost.",
+    "profitability": "Highly profitable cash crop, especially given global demand for soy products.",
+    "farming_guide": "Farming guide for Soybean   healthy goes here, including best seasons and profit tips."
+  },
+  "Squash___Powdery_mildew": {
+    "cure": "Apply fungicides like sulfur or potassium bicarbonate. Use resistant varieties. Improve air circulation.",
+    "farming_tip": "Plant in full sun with good air circulation. Avoid overhead watering late in the day. Remove infected leaves.",
+    "impact": "Causes white, powdery spots on leaves and stems, leading to yellowing, browning, and premature death of foliage, reducing yield.",
+    "best_season": "Favored by warm, dry days and cool, humid nights, common in late summer and fall.",
+    "profitability": "Can reduce fruit size and yield significantly, impacting marketability and profitability.",
+    "farming_guide": "Farming guide for Squash   Powdery mildew goes here, including best seasons and profit tips."
+  },
+  "Strawberry___Leaf_scorch": {
+    "cure": "Apply fungicides containing captan or azoxystrobin. Remove infected leaves. Improve air circulation.",
+    "farming_tip": "Plant resistant varieties. Ensure good air circulation around plants. Avoid excessive nitrogen fertilization.",
+    "impact": "Causes irregular purple to brown spots on leaves that enlarge and merge, leading to a scorched appearance and reduced vigor.",
+    "best_season": "Develops in warm, humid conditions, typically from late spring through summer.",
+    "profitability": "Reduces plant vigor and fruit production, affecting overall yield and profitability.",
+    "farming_guide": "Farming guide for Strawberry   Leaf scorch goes here, including best seasons and profit tips."
+  },
+  "Strawberry___healthy": {
+    "cure": "Ensure well-drained soil, full sun, and consistent moisture.",
+    "farming_tip": "Plant in raised beds, mulch to suppress weeds and retain moisture, and replace plants every few years for optimal production.",
+    "impact": "Healthy strawberry plants produce abundant, sweet berries, maximizing yield and market value.",
+    "best_season": "Strawberries are typically harvested in late spring to early summer, depending on the variety and climate.",
+    "profitability": "Highly profitable crop due to high demand for fresh berries.",
+    "farming_guide": "Farming guide for Strawberry   healthy goes here, including best seasons and profit tips."
+  },
+  "Tomato___Bacterial_spot": {
+    "cure": "Apply copper-based bactericides or streptomycin. Remove infected plant material. Plant resistant varieties.",
+    "farming_tip": "Avoid overhead irrigation. Rotate crops. Sanitize tools and trellises. Ensure good air circulation.",
+    "impact": "Causes small, water-soaked spots on leaves that turn brown, leading to defoliation. Also causes raised, scab-like lesions on fruit, making them unmarketable.",
+    "best_season": "Favored by warm (25-30\u00c2\u00b0C) and humid conditions, common in summer months.",
+    "profitability": "Significant reduction in fruit quality and yield, leading to major economic losses.",
+    "farming_guide": "Farming guide for Tomato   Bacterial spot goes here, including best seasons and profit tips."
+  },
+  "Tomato___Early_blight": {
+    "cure": "Apply fungicides like chlorothalonil, mancozeb, or strobilurins. Remove infected lower leaves.",
+    "farming_tip": "Rotate crops. Mulch to prevent soil splash. Ensure proper plant spacing and balanced fertilization. Use resistant varieties.",
+    "impact": "Causes concentric ring spots on older leaves, leading to premature defoliation, sunscald on fruit, and reduced yield.",
+    "best_season": "Favored by warm, humid conditions (20-25\u00c2\u00b0C), often appearing after flowering.",
+    "profitability": "Can cause moderate to severe yield reductions if not controlled, impacting profitability.",
+    "farming_guide": "Farming guide for Tomato   Early blight goes here, including best seasons and profit tips."
+  },
+  "Tomato___Late_blight": {
+    "cure": "Aggressive fungicide applications (e.g., mandipropamid, fluazinam). Destroy infected plant debris. Use resistant varieties.",
+    "farming_tip": "Plant certified disease-free transplants. Avoid overhead irrigation. Ensure good air circulation. Scout fields regularly.",
+    "impact": "Rapidly causes water-soaked lesions on leaves and stems that turn brown/black, leading to complete plant collapse and fruit rot. Highly destructive.",
+    "best_season": "Favored by cool (10-20\u00c2\u00b0C) and wet conditions, high humidity. Can spread rapidly.",
+    "profitability": "Extremely destructive; can wipe out entire crops rapidly, leading to major economic losses.",
+    "farming_guide": "Farming guide for Tomato   Late blight goes here, including best seasons and profit tips."
+  },
+  "Tomato___Leaf_Mold": {
+    "cure": "Apply fungicides. Improve air circulation. Remove infected leaves.",
+    "farming_tip": "Prune plants to improve airflow. Reduce humidity in greenhouses. Use resistant varieties. Avoid overhead watering.",
+    "impact": "Causes velvety, olive-green patches on the underside of leaves and yellow spots on the upper side, leading to defoliation and reduced yield.",
+    "best_season": "Favored by high humidity (above 85%) and moderate temperatures (21-24\u00c2\u00b0C), common in greenhouses or dense plantings.",
+    "profitability": "Reduces fruit size and yield, impacting market value and profitability, especially in enclosed environments.",
+    "farming_guide": "Farming guide for Tomato   Leaf Mold goes here, including best seasons and profit tips."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "cure": "Apply fungicides like chlorothalonil or mancozeb. Remove infected lower leaves and plant debris.",
+    "farming_tip": "Rotate crops. Mulch around plants. Avoid overhead watering. Ensure good air circulation. Sanitize tools.",
+    "impact": "Causes numerous small, circular spots with dark borders and tan centers on lower leaves, leading to severe defoliation and reduced fruit size.",
+    "best_season": "Favored by warm, humid conditions (20-25\u00c2\u00b0C), particularly after periods of rain.",
+    "profitability": "Can significantly reduce yield and quality if left unchecked, impacting profitability.",
+    "farming_guide": "Farming guide for Tomato   Septoria leaf spot goes here, including best seasons and profit tips."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "cure": "Use insecticidal soaps, horticultural oils, or specific miticides. Introduce predatory mites.",
+    "farming_tip": "Regularly inspect the undersides of leaves. Maintain good plant vigor. Avoid excessive nitrogen fertilization.",
+    "impact": "Causes tiny yellow or white stipples on leaves, leading to bronzing, distorted growth, and webbing. Severe infestations can defoliate plants and reduce yield.",
+    "best_season": "Thrive in hot, dry conditions, common in mid to late summer.",
+    "profitability": "Can cause significant yield losses and damage fruit quality, reducing profitability.",
+    "farming_guide": "Farming guide for Tomato   Spider mites Two-spotted spider mite goes here, including best seasons and profit tips."
+  },
+  "Tomato___Target_Spot": {
+    "cure": "Apply fungicides (e.g., strobilurins). Rotate crops. Remove infected plant debris.",
+    "farming_tip": "Ensure good air circulation. Avoid overhead watering. Manage humidity, especially in protected cultivation.",
+    "impact": "Causes circular spots with concentric rings (like a target) on leaves and sometimes fruit, leading to defoliation and yield loss.",
+    "best_season": "Favored by warm temperatures and high humidity, common in tropical and subtropical regions.",
+    "profitability": "Can significantly reduce yield and fruit quality, impacting marketability and profitability.",
+    "farming_guide": "Farming guide for Tomato   Target Spot goes here, including best seasons and profit tips."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "cure": "No direct cure. Management focuses on controlling whiteflies (the vector) and removing infected plants. Use resistant varieties.",
+    "farming_tip": "Use insecticidal sprays or biological controls for whiteflies. Use reflective mulches. Plant resistant or tolerant varieties.",
+    "impact": "Causes upward curling and yellowing of leaf margins, stunted growth, flower abortion, and severely reduced fruit set. Highly destructive.",
+    "best_season": "Prevalent during warm periods when whitefly populations are high.",
+    "profitability": "Highly devastating; can lead to near-total crop loss, making cultivation unprofitable in severely affected areas.",
+    "farming_guide": "Farming guide for Tomato   Tomato Yellow Leaf Curl Virus goes here, including best seasons and profit tips."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "cure": "No direct cure. Remove and destroy infected plants. Disinfect tools and hands.",
+    "farming_tip": "Use disease-free seeds/transplants. Avoid using tobacco products while handling plants. Control insect vectors that can spread it mechanically.",
+    "impact": "Causes mosaic patterns (light and dark green patches) on leaves, leaf distortion, stunted growth, and sometimes fruit abnormalities. Reduces yield.",
+    "best_season": "Can occur anytime, but symptoms are more pronounced in warmer temperatures.",
+    "profitability": "Reduces yield and fruit quality, impacting overall profitability.",
+    "farming_guide": "Farming guide for Tomato   Tomato mosaic virus goes here, including best seasons and profit tips."
+  },
+  "Tomato___healthy": {
+    "cure": "Provide full sun, well-drained soil, consistent moisture, and balanced nutrients.",
+    "farming_tip": "Stake plants for support, prune suckers, rotate crops annually, and monitor for pests and diseases regularly.",
+    "impact": "Healthy tomato plants produce abundant, flavorful fruits, ensuring high market value.",
+    "best_season": "Tomatoes are warm-season crops, best grown in late spring through summer.",
+    "profitability": "Highly profitable with good yields of quality tomatoes.",
+    "farming_guide": "Farming guide for Tomato   healthy goes here, including best seasons and profit tips."
+  }
+}
