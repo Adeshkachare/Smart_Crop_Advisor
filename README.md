@@ -5,6 +5,7 @@ Smart Crop Advisor is a complete farming assistant app that helps farmers make b
 This project was developed for **AgriTech Hackathon 2025** and provides tools like:
 - Crop disease detection from leaf images
 - NDVI crop health check using satellite images
+- Weed Detector using images
 - Weather-based disease forecasting
 - AI chatbot for farming questions
 - Fertilizer and yield calculators
@@ -42,7 +43,7 @@ All features are combined in a simple **web app interface** built with [Streamli
 
 ---
 
-## 📦 How to Run This Project (Even If You're a Beginner)
+## 📦 How to Run This Project
 
 ### Step 1: Clone the Project
 Download the code from GitHub to your computer.
@@ -52,67 +53,64 @@ git clone https://github.com/Adeshkachare/Smart_Crop_Advisor
 cd Smart_Crop_Advisor
 ```
 
-Step 2: Set Up Python Environment
+## Step 2: Set Up Python Environment
 Make sure you have Python 3.8 or later installed.
----------------------------------------------------------------------------------
 
 Then run:  
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
----------------------------------------------------------------------------------
 
-Step 3: Install Required Libraries
+## ---------------------------------------------------------------------------------
+
+## Step 3: Install Required Libraries
 pip install -r requirements.txt
----------------------------------------------------------------------------------
 
-Step 4: Add Your Secrets (API Keys)
+## ---------------------------------------------------------------------------------
+
+## Step 4: Add Your Secrets (API Keys)
 Create a file called .streamlit/secrets.toml inside the project folder:
 
-[mongo]
+## [mongo]
 username = "your_mongodb_username"
 password = "your_mongodb_password"
 
-[api]
+## [api]
 openrouter_api_key = "add_key_here"
 weather_api_key = "add_key_here"
 
-Don’t have a MongoDB or OpenRouter account?
+## Don’t have a MongoDB or OpenRouter account?
 Create a free MongoDB account at https://www.mongodb.com
 Get OpenRouter API key at https://openrouter.ai
----------------------------------------------------------------------------------
 
-Step 5: Run the App
+## ---------------------------------------------------------------------------------
+
+## Step 5: Run the App
 streamlit run app.py
 It will open the app in your default web browser at http://localhost:8501
----------------------------------------------------------------------------------
 
-📁 Folder Overview
+## ---------------------------------------------------------------------------------
+
+## 📁 Folder Overview
 Crop_Disease_Detector/
 ├── app.py                      # Main app file to run
-|
 ├── class_indices.json          # AI class labels for disease prediction
-|
 ├── class_names.json            # Full disease class names
-|
 ├── disease_faq.json            # Cure tips for each disease
-|
 ├── crop_disease_model_optimized.keras  # Trained CNN model
-|
 ├── feedback.py                 # Feedback form component
-|
 ├── requirements.txt            # All libraries needed
-|
 └── .streamlit/
-    |
     └── secrets.toml            # Your private API keys (you create this)
----------------------------------------------------------------------------------
+    
+## ---------------------------------------------------------------------------------
 
-🎯 Project Goal
+## 🎯 Project Goal
 Make modern farming easier and smarter using AI, computer vision,
 and real-time weather data — even in rural areas with simple devices.
----------------------------------------------------------------------------------
 
-🔮 Future Improvements
+## ---------------------------------------------------------------------------------
+
+## 🔮 Future Improvements
 
 Retrain the model to reduce overfitting and improve accuracy
 Train and add modules for:
@@ -121,29 +119,34 @@ Train and add modules for:
 Voice command and multilingual support
 Drone image integration
 Better UI for mobile users
----------------------------------------------------------------------------------
 
-✅ Contributions
+## ---------------------------------------------------------------------------------
+
+## ✅ Contributions
 This project was built for learning and demonstration purposes. 
 You are welcome to fork, improve, or use this as a base for 
 your own AgriTech solutions.
----------------------------------------------------------------------------------
 
-📜 License
+## ---------------------------------------------------------------------------------
+
+## 📜 License
 This project is free for personal and academic use. For commercial use,
 please contact the author.
----------------------------------------------------------------------------------
 
-🔗 Links
+## ---------------------------------------------------------------------------------
+
+## 🔗 Links
 
 Live Demo: https://www.youtube.com/watch?v=E19AvVu8KFk
 GitHub Repository: https://github.com/Adeshkachare/Smart_Crop_Advisor
----------------------------------------------------------------------------------
 
-🙌 Thank You
+## ---------------------------------------------------------------------------------
+
+## 🙌 Thank You
 Thanks to everyone who supported or reviewed this project. 
 Feedback and ideas are always welcome!
----------------------------------------------------------------------------------
+
+## ---------------------------------------------------------------------------------
 
 
 
