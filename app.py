@@ -1,4 +1,3 @@
-# The updated Smart Crop Advisor Streamlit App with MongoDB Integration
 
 import streamlit as st
 import tensorflow as tf
@@ -15,9 +14,7 @@ from pymongo import MongoClient
 from urllib.parse import quote_plus
 from scipy.ndimage import gaussian_filter
 import requests
-from feedback import feedback_form  # ✅ Correct
-
-
+from feedback import feedback_form
 
 # --- App Config ---
 st.set_page_config(
@@ -36,7 +33,7 @@ AGRI_BLUE = "#2196F3"
 def get_db():
     username = quote_plus(st.secrets["mongo"]["username"])
     password = quote_plus(st.secrets["mongo"]["password"])
-    mongo_uri = f"mongodb+srv://{username}:{password}@cluster0.vpzsezg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    mongo_uri = f"mongodb+srv://{username}:{password}@cluster0.vpzsezg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" # upload your mongo url here
     client = MongoClient(mongo_uri)
     return client["smart_crop_advisor"]
 
@@ -78,7 +75,6 @@ def predict_disease(image):
     top_preds = [(idx_to_class[i], predictions[i]) for i in top_indices]
     return top_preds
 
-
 # --- Home Dashboard ---
 def home_dashboard():
     st.title("🏠 Welcome to Smart Crop Advisor")
@@ -100,7 +96,6 @@ def home_dashboard():
     st.info("🧪 Use neem oil spray to control early-stage pests.")
 
     st.markdown("### 🫟 Navigate from the sidebar to begin.")
-
 
 # --- Crop Disease Detector ---
 def crop_disease_detection_module():
@@ -228,7 +223,6 @@ def ai_assistant():
                 st.error(f"❌ API error: {response.status_code}")
                 st.text(response.text)
 
-
 # --- Crop Planner & Calculator ---
 def crop_planner_calculator():
     st.header("😰 Crop Planner & Calculator")
@@ -280,7 +274,7 @@ def crop_planner_calculator():
         key = (soil_type, season)
         crops = recommendations.get(key, "Consult local extension officer")
         st.info(f"✅ Suitable Crops: {crops}")
-
+        
 # --- Farmer Work Diary ---
 def farmer_diary():
     st.title("📔 Farmer Work Diary")
