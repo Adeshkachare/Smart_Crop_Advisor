@@ -17,7 +17,7 @@ def send_ack_email(recipient_email, user_name):
     try:
         msg = EmailMessage()
         msg["Subject"] = "Thank You for Your Feedback!"
-        msg["From"] = "adesh.k4139@gmail.com"  # Your Gmail
+        msg["From"] = "youremail@gmail.com"  # Your Gmail
         msg["To"] = recipient_email
         msg.set_content(
             f"Hi {user_name},\n\nThank you for sharing your valuable feedback with us!\n\n- Smart Crop Advisor Team"
@@ -25,7 +25,7 @@ def send_ack_email(recipient_email, user_name):
 
         # Use Gmail SMTP server
         server = smtplib.SMTP_SSL("smtp.gmail.com", 465)
-        server.login("adesh.k4139@gmail.com", "wavm amdd ovtw gcdk")  # Use App Password
+        server.login("your_email", "your_password")  
         server.send_message(msg)
         server.quit()
     except Exception as e:
