@@ -1,0 +1,30 @@
+# Core Web App Framework
+streamlit==1.35.0           # Used to build the web-based interface and run the app in the browser
+
+# Machine Learning / Deep Learning
+tensorflow==2.15.0          # Used to load and run the trained CNN model for crop disease detection
+h5py==3.10.0                # Needed if TensorFlow model format is .h5 (not required for .keras format)
+
+# Image Processing
+pillow==10.3.0              # For handling image uploads and resizing leaf/field images
+rasterio==1.3.9             # For reading geospatial RED and NIR images in NDVI health analysis
+
+# Scientific Computing
+numpy==1.24.4               # For numerical operations, image arrays, NDVI calculations
+scipy==1.11.4               # Includes gaussian_filter used in NDVI smoothing
+
+# Data Visualization
+matplotlib==3.8.4           # To display NDVI heatmaps and other visual data
+seaborn==0.13.2             # Used optionally for styling plots (can be omitted if not used)
+
+# API & Web Communication
+requests==2.31.0            # To make HTTP requests to weather API and AI assistant API (OpenRouter)
+
+# Database (MongoDB)
+pymongo==4.7.2              # MongoDB client for storing user statistics and feedback
+
+# Optional: For managing Streamlit secrets
+python-dotenv==1.0.1        # If you prefer loading `.env` variables (not required with .streamlit/secrets.toml)
+
+# System Compatibility (Optional but good practice)
+certifi>=2023.7.22          # Ensures SSL certificates are up to date
